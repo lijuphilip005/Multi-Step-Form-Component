@@ -67,7 +67,7 @@ function FirstForm({ handlePrev, handleNext, onChange, formValues, }) {
     } else if (value.length < 3 || !onlyCharactersRegex.test(value)) {
       setErrors((prevErrors) => ({
         ...prevErrors,
-        name: "Name must be at least 3 characters and contain only letters",
+        name: "Name must be at least 3 characters",
       }));
       return false;
     } else {
