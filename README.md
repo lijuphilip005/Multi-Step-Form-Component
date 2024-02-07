@@ -24,6 +24,6 @@ Each form has previous and next buttons for easy navigation, and a final submit 
 Known Issues
 
 There is a bug that hides the next button when navigating back to the first form from the second. To resolve this, click on any field, and the next button will reappear. This issue is currently being addressed.
-Feel free to explore the project and use it for your needs. If you encounter any issues or have suggestions, please reach out. Contributions are welcome!
+Feel free to explore the project and use it for your needs. If you encounter any issues or have suggestions, please reach out me @lijuphilip795@gmail.com., Contributions are welcome!
 
 Note: The bug mentioned is actively being worked on and will be resolved soon.
